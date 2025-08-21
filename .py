@@ -1,5 +1,1 @@
-def hello_world():
-    print("Hello, world!")
-    
-    
-hello_world()
+후후 너가 머지를 경험하게 해주지. 
