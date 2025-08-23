@@ -4,3 +4,5 @@ def hello_world():
     
 hello_world()
 hello_world()
+
+print("노준혁 바보")
